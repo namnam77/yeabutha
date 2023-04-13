@@ -8,17 +8,17 @@
 ,
 {
          "name": "SG2-VIP-DTAC-TRUE",
-         "https://raw.githubusercontent.com/namnam77/yeabutha/main/sanmoee.ovpn"
+            "url": "https://raw.githubusercontent.com/namnam77/yeabutha/main/sanmoee.ovpn"
       }
 ,
 {
          "name": "SG3-VIP-DTAC-TRUE",
-         "https://raw.githubusercontent.com/namnam77/yeabutha/main/-sanm12.ovpn"
+           "url": "https://raw.githubusercontent.com/namnam77/yeabutha/main/-sanm12.ovpn"
       }
 ,
 {
          "name": "SG4-VIP-DTAC-TRUE",
-         "https://raw.githubusercontent.com/namnam77/yeabutha/main/eutvpn-sanm12.ovpn"
+          "url": "https://raw.githubusercontent.com/namnam77/yeabutha/main/eutvpn-sanm12.ovpn"
       }
 ,
 {
@@ -47,7 +47,7 @@
       }
 ,
 {
-        "name": "TH8-VIP1-DTAC -TRUE",
+        "name": "TH6-VIP1-DTAC -TRUE",
          "url": "https://raw.githubusercontent.com/namnam77/yeabutha/main/sanmoe.ovpn"
       }
       
@@ -66,5 +66,5 @@ Gameသမားတွေအတွက်(၉၀)ရက်61ဘတ်
 APKဗားရှင်း-1
 \n\nFb: Y.B.G",
 "title":"အပ်ဒိတ်တင်ပါ" ,
-   "version":8
+   "version":9
 }
