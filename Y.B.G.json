@@ -3,150 +3,77 @@
     
 {
          "name": "SG1-VIP-DTAC-TRUE",
-         "url": "https://raw.githubusercontent.com/namnam77/yeabutha/main/1.ovpn"
+         "url": "https://raw.githubusercontent.com/namnam77/yeabutha/main/1A.ovpn"
       }
 ,
 {
          "name": "SG2-VIP-DTAC-TRUE",
-            "url": "https://raw.githubusercontent.com/namnam77/yeabutha/main/2.ovpn"
+            "url": "https://raw.githubusercontent.com/namnam77/yeabutha/main/1B.ovpn"
       }
 ,
 {
          "name": "SG3-VIP-DTAC-TRUE",
-           "url": "https://raw.githubusercontent.com/namnam77/yeabutha/main/3.ovpn"
+           "url": "https://raw.githubusercontent.com/namnam77/yeabutha/main/1C.ovpn"
       }
 ,
 {
          "name": "SG4-VIP-DTAC-TRUE",
-            "url": "https://raw.githubusercontent.com/namnam77/yeabutha/main/4.ovpn"
+            "url": "https://raw.githubusercontent.com/namnam77/yeabutha/main/1D.ovpn"
       }
 ,
 {
          "name": "SG5-VIP-DTAC-TRUE",
-           "url": "https://raw.githubusercontent.com/namnam77/yeabutha/main/5.ovpn"
+           "url": "https://raw.githubusercontent.com/namnam77/yeabutha/main/1E.ovpn"
       }
 ,
 {
          "name": "SG6-VIP-DTAC-TRUE",
-          "url": "https://raw.githubusercontent.com/namnam77/yeabutha/main/6.ovpn"
-      }
-,
-{
-         "name": "SG7-VIP-DTAC-TRUE",
-            "url": "https://raw.githubusercontent.com/namnam77/yeabutha/main/7.ovpn"
-      }
-,
-{
-         "name": "SG8-VIP-DTAC-TRUE",
-           "url": "https://raw.githubusercontent.com/namnam77/yeabutha/main/8.ovpn"
-      }
-,
-{
-         "name": "SG9-VIP-DTAC-TRUE",
-          "url": "https://raw.githubusercontent.com/namnam77/yeabutha/main/9.ovpn"
+          "url": "https://raw.githubusercontent.com/namnam77/yeabutha/main/1F.ovpn"
       }
 ,
 {
          "name": "TH1-VIP-DTAC-TRUE",
-         "url": "https://raw.githubusercontent.com/namnam77/yeabutha/main/10.ovpn"
+            "url": "https://raw.githubusercontent.com/namnam77/yeabutha/main/1G.ovpn"
       }
 ,
 {
          "name": "TH2-VIP-DTAC-TRUE",
-         "url": "https://raw.githubusercontent.com/namnam77/yeabutha/main/11.ovpn"
+           "url": "https://raw.githubusercontent.com/namnam77/yeabutha/main/1H.ovpn"
       }
 ,
 {
          "name": "TH3-VIP-DTAC-TRUE",
-         "url": "https://raw.githubusercontent.com/namnam77/yeabutha/main/12.ovpn"
+          "url": "https://raw.githubusercontent.com/namnam77/yeabutha/main/1I.ovpn"
       }
 ,
 {
          "name": "TH4-VIP-DTAC-TRUE",
-         "url": "https://raw.githubusercontent.com/namnam77/yeabutha/main/13.ovpn"
+         "url": "https://raw.githubusercontent.com/namnam77/yeabutha/main/1J.ovpn"
       }
 ,
 {
          "name": "TH5-VIP-DTAC-TRUE",
-         "url": "https://raw.githubusercontent.com/namnam77/yeabutha/main/14.ovpn"
+         "url": "https://raw.githubusercontent.com/namnam77/yeabutha/main/1K.ovpn"
       }
 ,
 {
-         "name": "TH6-VIP-DTAC-TRUE",
-         "url": "https://raw.githubusercontent.com/namnam77/yeabutha/main/15.ovpn"
-      }
-,
-{
-         "name": "TH7-VIP-DTAC-TRUE",
-         "url": "https://raw.githubusercontent.com/namnam77/yeabutha/main/16.ovpn"
-      }
-,
-{
-         "name": "TH8-VIP-DTAC-TRUE",
-         "url": "https://raw.githubusercontent.com/namnam77/yeabutha/main/17.ovpn"
-      }
-,
-{
-         "name": "TH9-VIP-DTAC-TRUE",
-            "url": "https://raw.githubusercontent.com/namnam77/yeabutha/main/18.ovpn"
-      }
-,
-{
-         "name": "TH10-VIP-DTAC-TRUE",
-           "url": "https://raw.githubusercontent.com/namnam77/yeabutha/main/19.ovpn"
-      }
-,
-{
-         "name": "TH11-VIP-DTAC-TRUE",
-          "url": "https://raw.githubusercontent.com/namnam77/yeabutha/main/20.ovpn"
-      }
-,
-{
-         "name": "TH12-VIP-DTAC-TRUE",
-         "url": "https://raw.githubusercontent.com/namnam77/yeabutha/main/21.ovpn"
-      }
-,
-{
-         "name": "TH13-VIP-DTAC-TRUE",
-         "url": "https://raw.githubusercontent.com/namnam77/yeabutha/main/22.ovpn"
-      }
-,
-{
-         "name": "TH14-VIP-DTAC-TRUE",
-         "url": "https://raw.githubusercontent.com/namnam77/yeabutha/main/23.ovpn"
-      }
-,
-{
-         "name": "TH15-VIP-DTAC-TRUE",
-         "url": "https://raw.githubusercontent.com/namnam77/yeabutha/main/24.ovpn"
-      }
-,
-{
-         "name": "TH16-VIP-DTAC-TRUE",
-         "url": "https://raw.githubusercontent.com/namnam77/yeabutha/main/25.ovpn"
-      }
-,
-{
-        "name": "TH17-VIP1-DTAC -TRUE",
-         "url": "https://raw.githubusercontent.com/namnam77/yeabutha/main/sanmoe.ovpn"
+        "name": "TH6-VIP1-DTAC -TRUE",
+         "url": "https://raw.githubusercontent.com/namnam77/yeabutha/main/1L.ovpn"
       }
       
    ],
 "message":"
          🤗မင်္ဂလာပါ🤗
 SANMOE Y.B.G VPNမှကြိုဆိုပါတယ်။ 
-အသုံးပြုနိုင်တဲ့(ဆင်းကတ်)👇
-🔵DTAC 🔴TRUEဆင်းကတ်များသာဖြစ်သည်။
+အသုံးပြုနိုင်တဲ့ဆင်းကတ်DTAC/TRUEများသာဖြစ်သည်။
 ကိုယ်နဲ့အဆင်ပြေတဲ့လိုင်းကို​ရွေးသုံးနိုင်ပါသည်။
 ဖုန်းဘေ0ဘတ်နဲ့အသုံးပြုရပါမည်။
-Gameသမားတွေအတွက်(၉၀)ရက်61ဘတ်
-နဲ့တွဲစမတ်ပြီးလိုင်းအားပိုကောင်းပါတယ်။
-အထူးvipတစ်ယောက်သီးသန့်သုံးလဲရောင်းပေးပါသည်
+အထူးvipတစ်ယောက်သုံးချင်လဲ
 တစ်လ50ဘတ်ဖြင့်လာအားပေးနိုင်ပါသည်။
 မြန်မာဆင်းကတ်လဲစမ်းသုံးနိုင်ပါသည်။
-📤ဖိုင်တင်ရက် 20/04/2023 
+📤ဖိုင်တင်ရက် 27/04/2023 
 APKဗားရှင်း-1
 \n\nFb: Y.B.G",
 "title":"အပ်ဒိတ်တင်ပါ" ,
-   "version":12
+   "version":13
 }
